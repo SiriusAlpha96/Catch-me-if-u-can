@@ -1,4 +1,4 @@
-#box {
+/* #box {
     width: 10vw;
     height: 10vw;
     background-color: cornflowerblue;
@@ -11,4 +11,20 @@
 #box p{
     font-size: 1.7vw;
     color: aliceblue;
+} */
+body{
+	
+	background-size: cover;
+	background-color: #dea5ba;
+	
+}
+#rectangle{
+	position: absolute;
+	background-color:brown;
+	height: 60px;
+	width: 70px;
+	text-align: center;
+	font-size: 1rem;
+	color:white;
+	padding-top: 10px;
 }
