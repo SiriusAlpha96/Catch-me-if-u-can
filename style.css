@@ -1,0 +1,14 @@
+#box {
+    width: 10vw;
+    height: 10vw;
+    background-color: cornflowerblue;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box p{
+    font-size: 1.7vw;
+    color: aliceblue;
+}
